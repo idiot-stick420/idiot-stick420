@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @idiot-stick420
 - 👀 I’m interested in ... Just doing something
-- 🌱 I’m currently learning ... C, Python, Java, HTML
+- 🌱 I’m currently learning ... C, Python, Java, MERN Stack
 - 💞️ I’m looking to collaborate on ... Capstone project of making an app in Python
 - 📫 How to reach me ... 
 - 😄 Pronouns: ... loud buffon
